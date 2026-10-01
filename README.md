@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Olá! 👋 Sou Altierre Aguiar </h2>
+  <h2> Olá! Sou Altierre Aguiar </h2>
   <p> Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend </p>
   <h3> Java & Spring Boot Developer </h3>
 </div>
@@ -8,10 +8,10 @@
 
 ### 🌐 Conecte-se comigo:
 <div align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/altierreaguiar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:aguiaraltierre9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
